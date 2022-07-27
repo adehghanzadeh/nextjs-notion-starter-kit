@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Fork Next.js Notion Starter Kit',
   domain: 'alireza-psi.vercel.com',
-  author: 'Travis Fischer',
+  author: 'Alireza',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
