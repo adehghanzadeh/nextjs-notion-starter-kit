@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Fork Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'alireza-psi.vercel.com',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
