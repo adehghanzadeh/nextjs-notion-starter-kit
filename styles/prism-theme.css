@@ -114,12 +114,12 @@ pre {
 }
 
 pre[class*='language-'] > code {
-  border-left: 1px solid !important;
+  border-left: 0 none !important;
   box-shadow: none !important;
   background: none !important;
 }
 
 pre[class*='language-']:before,
 pre[class*='language-']:after {
-  color: rgba(31, 41, 55, 1);
+  display: none !important;
 }
