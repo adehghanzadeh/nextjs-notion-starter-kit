@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Fork Next.js Notion Starter Kit',
-  domain: 'alireza-psi.vercel.com',
+  domain: 'somenote.vercel.com',
   author: 'Alireza',
 
   // open graph metadata (optional)
