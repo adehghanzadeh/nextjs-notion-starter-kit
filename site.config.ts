@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Fork Next.js Notion Starter Kit',
-  domain: 'somenote.vercel.com',
+  name: 'Keep you Eyes on me',
+  domain: 'live.alerezaa.ir',
   author: 'Alireza',
 
   // open graph metadata (optional)
@@ -41,11 +41,11 @@ export default siteConfig({
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
   // example:
-  //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
+  pageUrlOverrides: {
+    '/single': '360f03e297064ab890ecb87addc32255',
+    '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+  },
+  
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
