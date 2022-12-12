@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep you Eyes on me',
-  domain: 'live.alerezaa.ir',
+  domain: 'life.alerezaa.ir',
   author: 'Alireza',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Track me :)',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
@@ -22,11 +22,11 @@ export default siteConfig({
   linkedin: 'dehghanzadeh',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'channel/UCoDyDM0qid1naxoLQxvPZvA', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'https://past.pages.dev/assets/img/favicons/favicon-16x16.png',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
@@ -46,7 +46,7 @@ export default siteConfig({
     '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   },
   
-  pageUrlOverrides: null,
+  // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
