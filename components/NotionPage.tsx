@@ -107,7 +107,7 @@ const propertyLastEditedTimeValue = (
 ) => {
   if (pageHeader && block?.last_edited_time) {
     return `Last updated ${formatDate(block?.last_edited_time, {
-      month: 'long'
+      month: 'short'
     })}`
   }
 
