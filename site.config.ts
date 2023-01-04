@@ -42,7 +42,7 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   pageUrlOverrides: {
-    '/single': '360f03e297064ab890ecb87addc32255',
+    '/now': '360f03e297064ab890ecb87addc32255',
     '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   },
   
