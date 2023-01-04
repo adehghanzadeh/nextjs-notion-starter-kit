@@ -43,6 +43,7 @@ export default siteConfig({
   // example:
   pageUrlOverrides: {
     '/now': '1d1c601269684df196132ea315e0bba6',
+    '/now/': '1d1c601269684df196132ea315e0bba6',
     '/live': '360f03e297064ab890ecb87addc32255'
   },
   
