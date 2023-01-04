@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Keep you Eyes on me',
+  name: 'Keep you Eyes on me :)',
   domain: 'life.alerezaa.ir',
   author: 'Alireza',
 
