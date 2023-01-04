@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep you Eyes on me',
-  domain: 'life.alerezaa.ir',
+  domain: 'story.alerezaa.ir',
   author: 'Alireza',
 
   // open graph metadata (optional)
