@@ -12,8 +12,8 @@ export const GitHubShareButton: React.FC = () => {
       aria-label='View source on GitHub'
     >
       <svg
-        width='80'
-        height='80'
+        width='10'
+        height='10'
         viewBox='0 0 250 250'
         style={{
           fill: '#70B7FD',
