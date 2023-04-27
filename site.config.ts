@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '17ff68bda81d4671811d8e6348e3ad4f',
+  rootNotionPageId: '1abbcfde84f04bba83e0304cc2eff23f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,19 +10,19 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep you Eyes on me',
-  domain: 'story.alerezaa.ir',
-  author: 'Alireza',
+  domain: 'check.somenotes.ir',
+  author: 'My Name is my-name',
 
   // open graph metadata (optional)
   description: 'Track me :)',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'alerezaaa',
-  linkedin: 'dehghanzadeh',
+  // github: 'alerezaaa',
+  // linkedin: 'dehghanzadeh',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: '@alerezaa', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  // youtube: '@alerezaa', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -42,10 +42,6 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   pageUrlOverrides: {
-    '/now': '1d1c601269684df196132ea315e0bba6',
-    '/now/': '1d1c601269684df196132ea315e0bba6',
-    '/live': '360f03e297064ab890ecb87addc32255',
-    '/server': '4b550768525c40868275c87abc75923f',
     '/servers': '1abbcfde84f04bba83e0304cc2eff23f'
   },
   
