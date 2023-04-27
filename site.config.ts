@@ -44,23 +44,24 @@ export default siteConfig({
   pageUrlOverrides: {
     '/now': '1d1c601269684df196132ea315e0bba6',
     '/now/': '1d1c601269684df196132ea315e0bba6',
-    '/live': '360f03e297064ab890ecb87addc32255'
+    '/live': '360f03e297064ab890ecb87addc32255',
+    '/server': '4b550768525c40868275c87abc75923f'
   },
   
   // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+<!--   navigationStyle: 'default' -->
+  navigationStyle: 'custom',
+  navigationLinks: [
+    {
+      title: 'About',
+      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+    },
+    {
+      title: 'servers',
+      pageId: '4b550768525c40868275c87abc75923f'
+    }
+  ]
 })
