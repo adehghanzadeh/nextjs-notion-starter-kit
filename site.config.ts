@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'alerezaaa',
+  // github: 'alerezaaa',
   linkedin: 'dehghanzadeh',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
@@ -45,7 +45,6 @@ export default siteConfig({
     '/now': '1d1c601269684df196132ea315e0bba6',
     '/now/': '1d1c601269684df196132ea315e0bba6',
     '/live': '360f03e297064ab890ecb87addc32255',
-    '/server': '4b550768525c40868275c87abc75923f',
     '/servers': '1abbcfde84f04bba83e0304cc2eff23f'
   },
   
