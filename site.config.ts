@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Track me :)',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
+  twitter: 'digdert',
   // github: 'alerezaaa',
-  linkedin: 'dehghanzadeh',
+  // linkedin: 'dehghanzadeh',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   youtube: '@alerezaa', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
