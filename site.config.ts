@@ -47,6 +47,7 @@ export default siteConfig({
     '/live': '360f03e297064ab890ecb87addc32255',
     '/servers': '1abbcfde84f04bba83e0304cc2eff23f',
     '/stories': '34f10c04d2be4d4a871613b058a225d4'
+    '/stories/': '34f10c04d2be4d4a871613b058a225d4'
   },
   
   // pageUrlOverrides: null,
