@@ -60,10 +60,11 @@ export default siteConfig({
     {
       title: 'Stories',
       pageId: '34f10c04d2be4d4a871613b058a225d4'
-    },
-    {
-      title: 'Servers',
-      pageId: '1abbcfde84f04bba83e0304cc2eff23f'
     }
+    // },
+    // {
+    //   title: 'Servers',
+    //   pageId: '1abbcfde84f04bba83e0304cc2eff23f'
+    // }
   ]
 })
